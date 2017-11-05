@@ -10,3 +10,4 @@ Four features were measured from each sample: the length and the width of the se
 
 Below are the images of the 3 different types of flowers
 
+![virginica](https://github.com/sunnynjoy/KNN-classification_IRIS_dataset/blob/update_readme/images/800px-Iris_virginica.jpg "Virginica")
