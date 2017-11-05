@@ -8,6 +8,4 @@ The data set consists of 150 samples from each of three species of Iris (Iris se
 
 Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. Based on the combination of these four features, Fisher developed a linear discriminant model to distinguish the species from each other.
 
-Below are the images of the 3 different types of flowers
 
-![virginica](https://github.com/sunnynjoy/KNN-classification_IRIS_dataset/blob/update_readme/images/800px-Iris_virginica.jpg){:height="50%" width="50%"}
